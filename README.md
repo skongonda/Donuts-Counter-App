@@ -1,5 +1,7 @@
 # Donuts Counter App
 
+Checkout at: https://gorgeous-sfogliatella-f9403d.netlify.app/
+
 ![image alt](https://github.com/skongonda/Donuts-Counter-App/blob/94fa53ebaf118b4100be4c8e5ecfadee51a9c1a7/Donuts-counter-app.png)
 
 Install the dependencies and run the project
